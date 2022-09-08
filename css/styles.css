@@ -466,7 +466,7 @@ body {
   border-radius: 4px;
   border: 1px solid #afb1b8;
 
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .client-list-icon {
@@ -571,7 +571,7 @@ body {
   line-height: 1.89;
 }
 
-.shadow:hover {
+.project-shadow:hover {
   box-shadow: 1px 4px 6px rgb(0 0 0 / 16%), 0px 4px 4px rgb(0 0 0 / 6%),
     0px 1px 1px rgb(0 0 0 / 12%);
 }
